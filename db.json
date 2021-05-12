@@ -1,9 +1,9 @@
 {
 	"accounts": [
-	  { "name": "Joe G.", "id": 3, "balance": 354.52},
-	  { "name": "Vivian E.", "id": 4, "balance": 5331.00},
-	  { "name": "George L.", "id": 2, "balance": 745.48},
-	  { "name": "Zoey A.", "id": 1, "balance": 1644.17}
+	  { "name": "Joe G.", "id": 3, "balance": 354.52, "transactions": [{ "name": "Opened Account", "amount": 354.52 }]},
+	  { "name": "Vivian E.", "id": 4, "balance": 5331.00, "transactions": [{ "name": "Opened Account", "amount": 5331.00 }]},
+	  { "name": "George L.", "id": 2, "balance": 745.48, "transactions": [{ "name": "Opened Account", "amount": 745.48}]},
+	  { "name": "Zoey A.", "id": 1, "balance": 1644.17, "transactions": [{ "name": "Opened Account", "amount": 1644.17}]}
 	],
 	"profile": { 
 	  "name": "typicode" 
